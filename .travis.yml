@@ -7,5 +7,3 @@ notifications:
 env:
 - MY_VAR=EverythignIsAwesome
 - NODE_ENV=TEST
-
- yarn --frozen-lockfile
