@@ -1,3 +1,4 @@
+![CI](https://github.com/kallyas/react-tailwind-pixaby-gallery/workflows/CI/badge.svg)
 # Pixabay Image Gallery - React & Tailwind CSS
 Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
 
