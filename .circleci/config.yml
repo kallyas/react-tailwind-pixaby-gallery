@@ -12,7 +12,6 @@ jobs:
             - run: npm install
             - run: npm start
             - run: npm build
-            - run: npm watch:css
 workflows:
     build-and-test:
       jobs:
